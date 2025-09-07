@@ -1,7 +1,7 @@
 # Spotify Data Exploration with Pandas 🎵  
 
 ## 📌 Overview  
-This project is an exploratory data analysis (EDA) of a **Spotify streaming history dataset** (provided by the instructor). Using **Python (pandas, matplotlib, seaborn)**, the analysis covers the entire workflow from **raw CSV files** to **insightful visualizations**.  
+This project is an exploratory data analysis (EDA) of a **Spotify streaming history dataset** (provided by the instructor). Using **Python (pandas, matplotlib, seaborn)**, the analysis covers the entire workflow from **raw CSV files** to **insightful visualizations**, while answering the tasks in the assignment.  
 
 The goal was to:  
 - Clean and preprocess multiple Spotify streaming history files  
@@ -22,6 +22,15 @@ The goal was to:
 
 ---
 
+## 🛠️ Skills & Tools Demonstrated  
+- **Python**: pandas, matplotlib, seaborn  
+- **Data Wrangling**: merging, cleaning, handling missing values, time formatting  
+- **EDA**: grouping, aggregations, descriptive statistics  
+- **Visualization**: bar charts, line plots, histograms, pie charts  
+- **Analytical Thinking**: defining skip metrics, comparing artists, storytelling with data  
+
+---
+
 ## 🔎 Analysis Workflow  
 
 ### Part 1 – Initial Exploration  
@@ -37,6 +46,8 @@ The goal was to:
 - Calculated and visualized:  
   - **Top 10 artists** by playtime  
   - **Top 10 tracks** by playtime  
+<img width="1026" height="632" alt="top_10_2023" src="https://github.com/user-attachments/assets/61e0e731-e5c4-4132-a2ce-77a8b5a468b8" />
+<img width="1046" height="548" alt="top_10_songs" src="https://github.com/user-attachments/assets/10e35179-b396-49dd-ae99-e3bf5573164c" />
 
 
 ### Part 3 – Extended Analysis  
@@ -45,32 +56,18 @@ The goal was to:
 - Defined **skipped songs**: <30 seconds playtime  
 - Built **skip-rate per artist** and identified artists with highest/lowest skip rates  
 - Visualized skipped vs. non-skipped songs with a pie chart  
+<img width="1003" height="569" alt="image" src="https://github.com/user-attachments/assets/9b72c75e-1e3c-43a6-bb7d-8e5fd2fef905" />
+<img width="856" height="492" alt="image" src="https://github.com/user-attachments/assets/d565fd59-24b6-45e1-88ad-468c472bcc14" />
+<img width="606" height="581" alt="image" src="https://github.com/user-attachments/assets/3fec0320-e043-4004-b91d-c957b8f94deb" />
+
+
 
 ### Part 4 – Case Study: Ariana Grande  
 - Filtered all Ariana Grande tracks into a separate DataFrame  
 - Compared her **skip-rate** to the full distribution of all artists  
 - Showed whether her songs were skipped more or less than average  
 - Provided insights into why she appeared as a **top-streamed artist**, despite stated preferences for rock/indie  
+<img width="848" height="471" alt="image" src="https://github.com/user-attachments/assets/25353e61-2979-4110-9da1-dcccfe9cd7de" />
 
 ---
 
-## 📊 Key Results & Insights  
-- Thousands of plays analyzed across 2023, with **clear top artists and tracks** emerging.  
-- Listening behavior varied strongly by **time of day** – some artists dominated mornings, others evenings.  
-- **Skip-rate analysis** provided a measure of listener engagement, highlighting which artists kept attention vs. lost it quickly.  
-- The **Ariana Grande case study** illustrated how **actual data can contradict self-perception**, demonstrating the importance of objective analysis.  
-
----
-
-## 🛠️ Skills & Tools Demonstrated  
-- **Python**: pandas, matplotlib, seaborn  
-- **Data Wrangling**: merging, cleaning, handling missing values, time formatting  
-- **EDA**: grouping, aggregations, descriptive statistics  
-- **Visualization**: bar charts, line plots, histograms, pie charts  
-- **Analytical Thinking**: defining skip metrics, comparing artists, storytelling with data  
-
----
-
-## 📸 Example Visualizations   
-
----
