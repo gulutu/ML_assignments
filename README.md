@@ -1,12 +1,19 @@
 # Machine Learning Assignment Projects
 
-This repository contains a collection of assignments and case studies I've completed during the course Applied Machine Learning, demonstrating skills in **Python, pandas, NumPy, scikit-learn, MLxtend, visualization, EDA, and model development**.  
+This repository contains a collection of assignments and case studies I've completed during the course Applied Machine Learning at NMBU, demonstrating skills in **Python, pandas, NumPy, scikit-learn, visualization, EDA, and model development**.  
 
 Each folder contains a self-contained project with a dedicated README and Jupyter Notebook.  
 
+
+### 🛠️ Tools & Skills  
+- **Languages**: Python  
+- **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, MLxtend, XGBoost  
+- **Methods**: EDA, feature engineering, scaling, classification, regression, cross-validation, hyperparameter tuning  
+- **Visualization**: histograms, boxplots, heatmaps, confusion matrices, feature importance
+
 ---
 
-## 🔎 Projects  
+## Projects  
 
 ### [Spotify Assignment](./Spotify_Assignment) 🎵  
 Exploratory Data Analysis of a Spotify streaming history dataset.  
@@ -55,13 +62,5 @@ Regression task to predict chili pepper heat (Scoville Heat Units, SHU).
 
 ---
 
-## 🛠️ Tools & Skills  
-- **Languages**: Python  
-- **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, MLxtend, XGBoost  
-- **Methods**: EDA, feature engineering, scaling, classification, regression, cross-validation, hyperparameter tuning  
-- **Visualization**: histograms, boxplots, heatmaps, confusion matrices, feature importance  
 
----
-
-🚀 Explore each folder to see the individual projects in detail.  
  
