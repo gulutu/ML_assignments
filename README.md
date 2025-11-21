@@ -5,11 +5,14 @@ This repository contains a collection of assignments and case studies I've compl
 Each folder contains a self-contained project with a dedicated README and Jupyter Notebook.  
 
 
-### 🛠️ Tools & Skills  
-- **Languages**: Python  
-- **Libraries**: pandas, NumPy, matplotlib, seaborn, scikit-learn, MLxtend, XGBoost  
-- **Methods**: EDA, feature engineering, scaling, classification, regression, cross-validation, hyperparameter tuning  
-- **Visualization**: histograms, boxplots, heatmaps, confusion matrices, feature importance
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
 ---
 
